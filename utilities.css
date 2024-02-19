@@ -1,0 +1,35 @@
+.rounded-nav{
+    border-radius: 40px;
+    border: 0.5px;
+    padding: 5px 10px 5px 10px;
+}
+html{
+    flex-wrap: wrap;
+}
+.bg-red{
+    background-color: red;
+}
+.bg-brown{
+    background-color: #58200f;
+}
+.bg{
+    background-color: #f8ebdc;
+}
+.bg-pink{
+    background-color: #f8ebdc;
+}
+.text-white{
+    color: white;
+}
+border-t{
+    border: transparent;
+}
+.border-b{
+    border-bottom: 1px;
+}
+d-flex{
+    display: flex;
+}
+.gap{
+    gap: 30px;
+}
